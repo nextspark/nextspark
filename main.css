@@ -1,0 +1,17 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  margin: 0;
+}
+
+.logo {
+  position: absolute;
+  margin: auto;
+  width: 60%;
+  max-width: 20em;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
